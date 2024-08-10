@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "flint-knife",
+	"version": "${version}",
+	"name": "Flint Knife",
+	"description": "This is a simple addon for MC of flint knives and stone knives by DoFii2o",
+	"authors": [
+		"DoFii2o!"
+	],
+	"contact": {
+		"homepage": "https://dofito-dev.github.io/Monde",
+		"sources": "https://github.com/dofito-dev/FlintKnife"
+	},
+	"license": "MIT",
+	"icon": "assets/flint-knife/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.dofi.flintknife.FlintKnife"
+		],
+		"fabric-datagen": [
+			"net.dofi.flintknife.FlintKnifeDataGenerator"
+		],
+		"client": [
+			"net.dofi.flintknife.FlintKnifeClient"
+		]
+	},
+	"mixins": [
+		"flint-knife.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
