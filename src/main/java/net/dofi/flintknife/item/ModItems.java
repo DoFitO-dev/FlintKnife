@@ -32,6 +32,6 @@ public class ModItems {
     public static void registerModItems() {
         FlintKnife.LOGGER.info("Registering Mod Items For " + FlintKnife.MOD_ID);
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngredientItemGroup);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.TOOLS).register(ModItems::addItemsToIngredientItemGroup);
     }
 }

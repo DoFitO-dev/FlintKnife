@@ -3,5 +3,6 @@
   "item.flintknife.flint_axe": "Flint Axe",
   "item.flintknife.flint_pickaxe": "Flint Pickaxe",
   "item.flintknife.flint_shovel": "Flint Shovel",
-  "item.flintknife.flint_hoe": "Flint Hoe"
+  "item.flintknife.flint_hoe": "Flint Hoe",
+  "block.flintknife.flint_block": "Block of Flint"
 }
