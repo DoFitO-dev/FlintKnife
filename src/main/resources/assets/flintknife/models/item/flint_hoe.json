@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "flintknife:item/flint_knife"
+    "layer0": "flintknife:item/flint_hoe"
   }
 }

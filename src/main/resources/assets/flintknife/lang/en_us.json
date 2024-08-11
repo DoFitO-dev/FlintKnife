@@ -1,3 +1,7 @@
 {
-  "item.flintknife.flint_knife": "Flint Knife"
+  "item.flintknife.flint_knife": "Flint Knife",
+  "item.flintknife.flint_axe": "Flint Axe",
+  "item.flintknife.flint_pickaxe": "Flint Pickaxe",
+  "item.flintknife.flint_shovel": "Flint Shovel",
+  "item.flintknife.flint_hoe": "Flint Hoe"
 }
