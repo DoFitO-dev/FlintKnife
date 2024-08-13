@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "flintknife:block/flint_ore"
+    }
+  }
+}

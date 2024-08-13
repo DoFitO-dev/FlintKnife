@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "flintknife:block/deepslate_flint_ore"
+  }
+}

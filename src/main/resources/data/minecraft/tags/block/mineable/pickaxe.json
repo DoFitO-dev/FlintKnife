@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "flintknife:flint_block",
+    "flintknife:flint_ore",
+    "flintknife:deepslate_flint_ore"
+  ]
+}

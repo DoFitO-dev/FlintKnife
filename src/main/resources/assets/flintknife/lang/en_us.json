@@ -4,5 +4,8 @@
   "item.flintknife.flint_pickaxe": "Flint Pickaxe",
   "item.flintknife.flint_shovel": "Flint Shovel",
   "item.flintknife.flint_hoe": "Flint Hoe",
-  "block.flintknife.flint_block": "Block of Flint"
+  "block.flintknife.flint_block": "Block of Flint",
+  "block.flintknife.flint_ore": "Flint Ore",
+  "block.flintknife.deepslate_flint_ore": "Deepslate Flint Ore",
+  "item.flintknife.money": "Money"
 }
